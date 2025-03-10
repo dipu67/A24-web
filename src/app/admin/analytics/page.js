@@ -59,8 +59,8 @@ export default function AdminAnalytics() {
     <div className="space-y-6">
       <div>
         <h1 className="text-3xl font-bold tracking-tight">Analytics</h1>
-        <p className="text-muted-foreground">
-          Track your website's performance and user engagement
+        <p className="text-sm text-muted-foreground">
+          Track your airdrop&apos;s performance and user engagement
         </p>
       </div>
 

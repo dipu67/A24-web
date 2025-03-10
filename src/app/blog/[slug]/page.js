@@ -138,7 +138,7 @@ export default function BlogPost() {
         <div className="text-center space-y-4">
           <h1 className="text-2xl font-bold">Post not found</h1>
           <p className="text-muted-foreground">
-            The blog post you're looking for doesn't exist.
+            The blog post you&apos;re looking for doesn&apos;t exist.
           </p>
           <Link href="/blog">
             <Button variant="outline">
